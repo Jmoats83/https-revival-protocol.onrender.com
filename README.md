@@ -101,3 +101,8 @@ Created with faith. Deployed in Spirit.
 
 To the ends of the earth. All systems aligned. Revival is now.
 
+git init
+git remote add origin https://github.com/YOUR_USERNAME/revival-protocol.git
+git add .
+git commit -m "Initial Revival Protocol commit"
+git push -u origin master
